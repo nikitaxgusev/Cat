@@ -1,0 +1,5 @@
+﻿  cat.cpp
+c:\users\nikita gusev\desktop\tac\tac\cat.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\nikita gusev\desktop\tac\tac\cat.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  tac.vcxproj -> C:\Users\Nikita Gusev\Desktop\tac\Debug\tac.exe
+  tac.vcxproj -> C:\Users\Nikita Gusev\Desktop\tac\Debug\tac.pdb (Full PDB)
